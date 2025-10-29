@@ -36,7 +36,7 @@ $nombre = $_SESSION['user']['nombre'];
   <?php else: ?>
     <div class="row">
       <div class="col-md-12">
-        <a href="articulos.php" class="btn btn-danger w-100 mb-3">Gestión de Artículos</a>
+        <a href="articulos.php" class="btn btn-danger w-100 mb-3">Gestión de Artículos.</a>
       </div>
     </div>
   <?php endif; ?>
