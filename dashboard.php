@@ -40,7 +40,7 @@ $nombre = $_SESSION['user']['nombre'];
       </div>
     </div>
   <?php endif; ?>
-  <a href="catalogo.php" class="btn btn-success">Ir al Catálogo público</a>
+  <a href="catalogo.php" class="btn btn-success">Ir al Catálogo público.</a>
 </div>
 </body>
 </html>
