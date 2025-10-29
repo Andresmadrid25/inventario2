@@ -11,7 +11,7 @@ $productos = $stmt->fetchAll();
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Catálogo</title>
+  <title>Catálogo.</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="assets.css">
 </head>
