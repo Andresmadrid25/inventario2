@@ -1,6 +1,6 @@
 <?php
 // conexion.php
-$host = 'mysql-dragonfull.alwaysdata.net';
+$host = 'dragonfull.alwaysdata.net';
 $db   = 'dragonfull_envios';
 $user = '436672';
 $pass = 'Misifu123+';
